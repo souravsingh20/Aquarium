@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531382402341",
+    "project_id": "aquarium-5254b",
+    "storage_bucket": "aquarium-5254b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531382402341:android:fa8c30104e095b7cc62ecc",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531382402341-ia2ulb4jg8fcrnsnl5s1cq4aaa6e60bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQghhSZclNTNlI6V3HR307wKL7Bo0-GoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531382402341-ia2ulb4jg8fcrnsnl5s1cq4aaa6e60bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
