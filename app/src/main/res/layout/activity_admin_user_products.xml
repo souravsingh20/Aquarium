@@ -31,5 +31,5 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/r3"
 
-        ></androidx.recyclerview.widget.RecyclerView>
+        android:background="#AEEF1662"></androidx.recyclerview.widget.RecyclerView>
 </RelativeLayout>
